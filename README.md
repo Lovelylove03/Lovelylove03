@@ -15,7 +15,7 @@ I'm a passionate Data Analyst with a knack for uncovering insights from data and
 
 ## Skills
 - **Programming Languages**: SQL (SQL Server, MySQL, PostgreSQL), Python
-- **Libraries/Frameworks**: Pandas, NumPy, SciPy, Matplotlib, Streamlit
+- **Libraries/Frameworks**: Pandas, NumPy, SciPy, Matplotlib, Streamlit, Scikit-Learn
 - **Data Analysis Tools**: Excel (VLookup, Conditional Formatting, Pivot Tables), Microsoft Power BI
 - **Machine Learning**: Python Libraries, R Libraries
 
