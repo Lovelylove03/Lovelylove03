@@ -23,7 +23,9 @@ I'm a passionate Data Analyst with a knack for uncovering insights from data and
 - **[Film Recommendation System](https://github.com/Lovelylove03/film-recommendation-system)**: A ML-based recommendation system for a local cinema.
 - **[BI Dashboard for Toys & Models Company](https://github.com/Lovelylove03/bi-dashboard-toys-models)**: A comprehensive BI dashboard covering sales, finance, logistics, and HR metrics.
 - **[Holiday Package Recommendation App](https://github.com/Lovelylove03/holiday-package-prediction)**: An application predicting holiday packages using Streamlit and Python.
-- **[Bicycle Parking Infrastructure Analysis in Loire-Atlantique](https://github.com/Lovelylove03/-Bicycle-Parking-Infrastructure-Analysis-in-the-Loire-Atlantique-Area)**:– Descriptive analysis project focusing on bicycle parking infrastructure, with planned visualizations and insights.
+- **[Bicycle Parking Infrastructure Analysis in Loire-Atlantique](https://github.com/Lovelylove03/-Bicycle-Parking-Infrastructure-Analysis-in-the-Loire-Atlantique-Area)**:– Descriptive analysis project focusing   
+       on bicycle parking infrastructure, with planned visualizations and insights.
+- **[Gourmet Restaurant Recommendation System](https://github.com/Lovelylove03/Gourmet-Restaurant)**:This is a Streamlit web application that recommends restaurants based on user preferences like cuisine type, price range, and location.
 
 ## Interests
 - Coding, learning new languages, cooking, dancing, music, photography, cycling
