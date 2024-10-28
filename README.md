@@ -9,7 +9,7 @@ I'm a passionate Data Analyst with a knack for uncovering insights from data and
 - 💼 **Current Role**: Junior Data Analyst
 - 🌱 **Currently Learning**: Advanced machine learning techniques and big data technologies
 - 🎓 **Education**: Business Management at Mount Kenya University Mombasa
--                    Data Aanalyst Bac+3 wild code School
+-                    Data Analyst Bac+3 wild code School
 - 👯 **Looking to collaborate on**: Open-source data science projects
 - 📫 **How to reach me**: [Email](mailto:lavenderoyugi1@gmail.com) | [GitHub](https://github.com/Lovelylove03)
 
