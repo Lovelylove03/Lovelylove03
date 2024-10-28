@@ -6,7 +6,7 @@
 ## About Me
 I'm a passionate Data Analyst with a knack for uncovering insights from data and turning them into actionable strategies. My expertise lies in SQL, Python, and data visualization tools like Power BI.
 
-- 💼 **Current Role**: Data Analyst at Wild Code School
+- 💼 **Current Role**: Junior Data Analyst
 - 🌱 **Currently Learning**: Advanced machine learning techniques and big data technologies
 - 🎓 **Education**: Business Management at Mount Kenya University Mombasa
 - 👯 **Looking to collaborate on**: Open-source data science projects
